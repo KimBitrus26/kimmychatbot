@@ -1,1 +1,1 @@
-web: gunicorn app:app
+reminder: python app.py
